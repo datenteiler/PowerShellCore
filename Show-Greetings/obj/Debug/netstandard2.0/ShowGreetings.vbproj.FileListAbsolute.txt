@@ -6,3 +6,11 @@
 /home/christian/VbNetCore/ShowGreetings/bin/Debug/netstandard2.0/ShowGreetings.pdb
 /home/christian/VbNetCore/ShowGreetings/obj/Debug/netstandard2.0/ShowGreetings.dll
 /home/christian/VbNetCore/ShowGreetings/obj/Debug/netstandard2.0/ShowGreetings.pdb
+/home/christian/VbNetCore/PowerShellCore/Show-Greetings/bin/Debug/netstandard2.0/ShowGreetings.deps.json
+/home/christian/VbNetCore/PowerShellCore/Show-Greetings/bin/Debug/netstandard2.0/ShowGreetings.dll
+/home/christian/VbNetCore/PowerShellCore/Show-Greetings/bin/Debug/netstandard2.0/ShowGreetings.pdb
+/home/christian/VbNetCore/PowerShellCore/Show-Greetings/obj/Debug/netstandard2.0/ShowGreetings.vbproj.CoreCompileInputs.cache
+/home/christian/VbNetCore/PowerShellCore/Show-Greetings/obj/Debug/netstandard2.0/ShowGreetings.AssemblyInfoInputs.cache
+/home/christian/VbNetCore/PowerShellCore/Show-Greetings/obj/Debug/netstandard2.0/ShowGreetings.AssemblyInfo.vb
+/home/christian/VbNetCore/PowerShellCore/Show-Greetings/obj/Debug/netstandard2.0/ShowGreetings.dll
+/home/christian/VbNetCore/PowerShellCore/Show-Greetings/obj/Debug/netstandard2.0/ShowGreetings.pdb

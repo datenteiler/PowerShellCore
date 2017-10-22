@@ -8,7 +8,7 @@ Namespace ShowGreetings
         
         ' Parameter for the cmdlet
         Private _Name As String()
-        <Parameter(Mandatory:=True)> _
+        <Parameter(Mandatory:=True,Position:=1)> _
         Public Property Name() As String()
             Get 
                 Return _Name

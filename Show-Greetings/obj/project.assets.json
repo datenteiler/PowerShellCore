@@ -203,11 +203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/christian/VbNetCore/ShowGreetings/ShowGreetings.vbproj",
+      "projectUniqueName": "/home/christian/VbNetCore/PowerShellCore/Show-Greetings/ShowGreetings.vbproj",
       "projectName": "ShowGreetings",
-      "projectPath": "/home/christian/VbNetCore/ShowGreetings/ShowGreetings.vbproj",
+      "projectPath": "/home/christian/VbNetCore/PowerShellCore/Show-Greetings/ShowGreetings.vbproj",
       "packagesPath": "/home/christian/.nuget/packages/",
-      "outputPath": "/home/christian/VbNetCore/ShowGreetings/obj/",
+      "outputPath": "/home/christian/VbNetCore/PowerShellCore/Show-Greetings/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
